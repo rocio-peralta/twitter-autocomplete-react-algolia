@@ -8,13 +8,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "algoliasearch": "^4.19.1",
+    "rea": "^0.0.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-instantsearch-hooks": "^6.47.3",
+    "textarea-caret": "^3.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "1.0.7",
     "standard": "16.0.4",
-    "vite": "2.8.0"
+    "vite": "^2.9.16"
   },
   "eslintConfig": {
     "extends": "./node_modules/standard/eslintrc.json"
